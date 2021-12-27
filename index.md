@@ -11,13 +11,9 @@
 > Application of the Random Forest Algorithm to predict the flight fare, by taking important parameters such 
 > as Departure Date, Arrival Date, Source, Destination, Stoppage, and the airlines which the customer 
 > wants to travel with
+<center><img src="assets/img/flight fare prediction.jpg"/></center>
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/DataScientist365/Flight-Fare-Predictions)
 
 #### Header 4
 
