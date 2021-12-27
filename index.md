@@ -4,7 +4,7 @@
 > Application of Machine Learning Algorithms such as Logistic Regression, Decision Tree, Random Forest, 
 > and Voting Based Classifier to predict the Loan Status based on customer details.
 
-<center><img src="assets/img/loan_status_project.png" width="700" height="400"/></center>
+<center><img src="assets/img/loan_status_project.jpg" width="700" height="400"/></center>
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/DataScientist365/Loan-Status-Predictions-Imbalanced-Dataset-)
 
