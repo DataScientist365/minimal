@@ -1,34 +1,16 @@
----
-layout: default
----
+# Data Science Portfolio
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## Loan Status Prediction using Python
+> Application of Machine Learning Algorithms such as Logistic Regression, Decision Tree, Random Forest, 
+> and Voting Based Classifier to predict the Loan Status based on customer details.
+<center><img src="assets/img/loan_status_project.png"/></center>
 
-[Link to another page](./another-page.html).
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/DataScientist365/Loan-Status-Predictions-Imbalanced-Dataset-)
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+###  Flight Fare Prediction using Python
+> Application of the Random Forest Algorithm to predict the flight fare, by taking important parameters such 
+> as Departure Date, Arrival Date, Source, Destination, Stoppage, and the airlines which the customer 
+> wants to travel with
 
 ```ruby
 # Ruby code with syntax highlighting
