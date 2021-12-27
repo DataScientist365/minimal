@@ -15,11 +15,12 @@
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/DataScientist365/Flight-Fare-Predictions)
 
-#### Header 4
+### Malaria Detection using Deep Learning using Python
+> Detection of Malaria by using the application of Convolutional Neural Network which comprises of two 
+> classes-Parasitized and Uninfected.
+<center><img src="assets/img/malaria_detection_dl.jpg"/></center>
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/DataScientist365/Malaria-Detection-using-Deep-Learning-Healthcare-Analytics-)
 
 ##### Header 5
 
